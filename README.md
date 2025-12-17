@@ -1,4 +1,4 @@
-![GIF]("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVud2M3Nnc3Y3F2M3BxbHNpNjdrZXEzMjNlZmJxNmwwb2Z4NGV1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JCIWBz8oRRLZmZhNn/giphy.gif")
+![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVud2M3Nnc3Y3F2M3BxbHNpNjdrZXEzMjNlZmJxNmwwb2Z4NGV1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JCIWBz8oRRLZmZhNn/giphy.gif)
 
 ## Hi, i`m Alex 👋
 
