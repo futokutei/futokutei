@@ -1,4 +1,4 @@
-![GIF]("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMyamgyaHFkOGUzczJoejNpbXF6bXBlOHBudmV3azVvaTV1a3FjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8JCIWBz8oRRLZmZhNn/giphy.gif")
+[GIF]("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMyamgyaHFkOGUzczJoejNpbXF6bXBlOHBudmV3azVvaTV1a3FjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8JCIWBz8oRRLZmZhNn/giphy.gif")
 
 ## Hi, i`m Alex 👋
 
