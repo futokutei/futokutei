@@ -1,4 +1,4 @@
-![Alt](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3p2YWJjaXppbmh6ajZqY2g1dm45d2lxN2xnenZtamNxZ2dnNHQydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AHj0lQstZ9I9W/giphy.gif)
+![Alt]( https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWtqY2ljZDM2aWJ1bjg4anV3YWxhZ21tanFoOW42dGNna3RtN3BtNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fqrXU5bfnbQg9bCAKI/giphy.gif )
 
 ## Hi, i`m Alex 👋
 
